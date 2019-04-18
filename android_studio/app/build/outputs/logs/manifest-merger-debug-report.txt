@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:1-55:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\000553a1e8a3ccbaa31dd7f57d80140a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\85476c3eb00b04f494d2f46a47ef7de2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\11e27e9963217d6cdc38236abeed6461\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\65c96f61f704f004e28e22953f3b8a56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\73c2060df7d14281d0f6ab270f59fab4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\cdda01df5bb35429222bc9a92d344f3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9563c53376e938e3155859b7cda2e1fb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ffe8527acdb418a8f052cf2089351e82\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:1-55:12
+	package
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\000553a1e8a3ccbaa31dd7f57d80140a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\000553a1e8a3ccbaa31dd7f57d80140a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\85476c3eb00b04f494d2f46a47ef7de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\85476c3eb00b04f494d2f46a47ef7de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\11e27e9963217d6cdc38236abeed6461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\11e27e9963217d6cdc38236abeed6461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\65c96f61f704f004e28e22953f3b8a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\65c96f61f704f004e28e22953f3b8a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\73c2060df7d14281d0f6ab270f59fab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\73c2060df7d14281d0f6ab270f59fab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\cdda01df5bb35429222bc9a92d344f3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\cdda01df5bb35429222bc9a92d344f3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9563c53376e938e3155859b7cda2e1fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9563c53376e938e3155859b7cda2e1fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ffe8527acdb418a8f052cf2089351e82\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\TR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ffe8527acdb418a8f052cf2089351e82\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+		INJECTED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.INTERNET
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:18:5-77
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:18:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:19:22-63
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:20:2-80
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:20:19-77
+application
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:22:5-52:19
+	android:label
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:27:9-41
+	android:launchMode
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:25:9-39
+	android:icon
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:24:9-35
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:23:9-65
+activity#mo.MainActivity
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:29:9-40:20
+	android:screenOrientation
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:34:13-45
+	android:windowSoftInputMode
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:32:13-64
+	android:configChanges
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:33:13-96
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:30:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.ictitan.union.view.HelpActivity
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:theme
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:44:13-83
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:43:13-63
+meta-data#ICTITAN_UNION_APP_ID
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:48:9-80
+	android:value
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:48:56-77
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:48:20-55
+meta-data#ICTITAN_UNION_CHANNEL_ID
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:49:9-84
+	android:value
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:49:60-81
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:49:20-59
+meta-data#ICTITAN_UNION_INIT_URL
+ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:50:9-127
+	android:value
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:50:58-124
+	android:name
+		ADDED from F:\html5\sdk\mo_native\android_studio\app\src\main\AndroidManifest.xml:50:20-57
